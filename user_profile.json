@@ -1,0 +1,1104 @@
+{
+    "appVersion": "4.140.6",
+    "data": {
+        "_ABTests": {
+            "onboardingPushNotification": "Onboarding-Step7-Phasea-VersionA"
+        },
+        "_id": "d86d63d4-671a-4082-bca6-a67e066543af",
+        "_v": 35208,
+        "achievements": {
+            "challenges": [],
+            "completedTask": true,
+            "createdTask": true,
+            "fedPet": true,
+            "habitBirthdays": 2,
+            "habiticaDays": 2,
+            "hatchedPet": true,
+            "joinedGuild": true,
+            "perfect": 23,
+            "purchasedEquipment": true,
+            "quests": {},
+            "streak": 0,
+            "ultimateGearSets": {
+                "healer": false,
+                "rogue": false,
+                "warrior": false,
+                "wizard": false
+            }
+        },
+        "auth": {
+            "apple": {},
+            "facebook": {},
+            "google": {},
+            "local": {
+                "email": "davildaran@gmail.com",
+                "lowerCaseUsername": "davildaran",
+                "username": "davildaran"
+            },
+            "timestamps": {
+                "created": "2018-03-25T22:09:03.710Z",
+                "loggedin": "2020-04-18T13:36:43.698Z",
+                "updated": "2020-04-18T13:56:16.460Z"
+            }
+        },
+        "backer": {},
+        "balance": 0,
+        "challenges": [],
+        "contributor": {},
+        "extra": {},
+        "flags": {
+            "armoireEmpty": false,
+            "armoireEnabled": true,
+            "armoireOpened": false,
+            "cardReceived": false,
+            "classSelected": false,
+            "communityGuidelinesAccepted": true,
+            "cronCount": 74,
+            "customizationsNotification": true,
+            "dropsEnabled": true,
+            "itemsEnabled": true,
+            "lastWeeklyRecap": "2018-03-25T22:09:03.711Z",
+            "levelDrops": {},
+            "newStuff": true,
+            "onboardingEmailsPhase": "7-b-1522497610279",
+            "rebirthEnabled": false,
+            "recaptureEmailsPhase": 0,
+            "rewrite": true,
+            "showTour": false,
+            "tour": {
+                "challenges": -2,
+                "classes": -2,
+                "equipment": -2,
+                "guilds": -2,
+                "hall": -2,
+                "intro": -2,
+                "market": -2,
+                "mounts": -2,
+                "party": -2,
+                "pets": -2,
+                "stats": -2,
+                "tavern": -2
+            },
+            "tutorial": {
+                "common": {
+                    "classes": false,
+                    "dailies": true,
+                    "equipment": false,
+                    "gems": false,
+                    "habits": true,
+                    "inbox": false,
+                    "items": false,
+                    "mounts": false,
+                    "party": true,
+                    "pets": false,
+                    "rewards": true,
+                    "skills": false,
+                    "stats": true,
+                    "tavern": true,
+                    "todos": true
+                },
+                "ios": {
+                    "addTask": false,
+                    "deleteTask": false,
+                    "editTask": false,
+                    "filterTask": false,
+                    "groupPets": false,
+                    "inviteParty": false,
+                    "reorderTask": false
+                }
+            },
+            "verifiedUsername": true,
+            "warnedLowHealth": false,
+            "weeklyRecapEmailsPhase": 0,
+            "welcomed": true
+        },
+        "guilds": [
+            "59685ce8-d1b0-45e9-bafc-b85e88f78e88",
+            "9556cad0-d7b6-4019-8f0f-f9c989015e8f",
+            "2302b61c-a349-4b07-b185-03269760bc40",
+            "5cc215ef-1d98-4a26-8e18-4957661bdac3"
+        ],
+        "history": {
+            "exp": [
+                {
+                    "date": 1522156344834,
+                    "value": 22.8
+                },
+                {
+                    "date": 1522780000319,
+                    "value": 187.64285714285714
+                },
+                {
+                    "date": "2018-04-17T13:43:31.463Z",
+                    "value": 325
+                },
+                {
+                    "date": "2018-04-18T13:44:39.280Z",
+                    "value": 364
+                },
+                {
+                    "date": "2018-04-19T12:42:14.212Z",
+                    "value": 379
+                },
+                {
+                    "date": "2018-04-24T13:06:05.464Z",
+                    "value": 392
+                },
+                {
+                    "date": "2018-04-25T14:43:25.794Z",
+                    "value": 404
+                },
+                {
+                    "date": "2018-04-26T13:22:12.707Z",
+                    "value": 431
+                },
+                {
+                    "date": "2018-04-27T11:57:36.073Z",
+                    "value": 442
+                },
+                {
+                    "date": "2018-04-29T17:38:00.532Z",
+                    "value": 475
+                },
+                {
+                    "date": "2018-05-01T21:55:34.585Z",
+                    "value": 486
+                },
+                {
+                    "date": "2018-05-02T22:56:54.248Z",
+                    "value": 499
+                },
+                {
+                    "date": "2018-05-03T23:59:35.688Z",
+                    "value": 519
+                },
+                {
+                    "date": "2018-05-04T12:42:07.128Z",
+                    "value": 552
+                },
+                {
+                    "date": "2018-05-05T05:45:07.774Z",
+                    "value": 561
+                },
+                {
+                    "date": "2018-05-07T13:17:38.130Z",
+                    "value": 591
+                },
+                {
+                    "date": "2018-05-09T17:30:05.473Z",
+                    "value": 631
+                },
+                {
+                    "date": "2018-05-10T13:19:49.232Z",
+                    "value": 679
+                },
+                {
+                    "date": "2018-05-11T11:54:18.985Z",
+                    "value": 721
+                },
+                {
+                    "date": "2018-05-12T16:34:14.779Z",
+                    "value": 725
+                },
+                {
+                    "date": "2018-05-14T00:06:37.472Z",
+                    "value": 746
+                },
+                {
+                    "date": "2018-05-14T22:37:35.205Z",
+                    "value": 788
+                },
+                {
+                    "date": "2018-05-16T00:03:03.014Z",
+                    "value": 836
+                },
+                {
+                    "date": "2018-05-17T00:47:27.087Z",
+                    "value": 869
+                },
+                {
+                    "date": "2018-05-18T13:27:57.011Z",
+                    "value": 895
+                },
+                {
+                    "date": "2018-05-19T05:29:13.220Z",
+                    "value": 910
+                },
+                {
+                    "date": "2018-05-20T15:33:28.687Z",
+                    "value": 931
+                },
+                {
+                    "date": "2018-05-22T01:52:56.344Z",
+                    "value": 942
+                },
+                {
+                    "date": "2018-05-22T18:18:29.421Z",
+                    "value": 960
+                },
+                {
+                    "date": "2018-05-24T03:17:39.803Z",
+                    "value": 974
+                },
+                {
+                    "date": "2018-05-26T17:28:58.207Z",
+                    "value": 1005
+                },
+                {
+                    "date": "2018-05-27T22:11:01.485Z",
+                    "value": 1033
+                },
+                {
+                    "date": "2018-05-28T18:11:48.547Z",
+                    "value": 1047
+                },
+                {
+                    "date": "2018-05-30T01:48:01.413Z",
+                    "value": 1075
+                },
+                {
+                    "date": "2018-05-30T22:54:37.963Z",
+                    "value": 1128
+                },
+                {
+                    "date": "2018-06-05T02:51:07.076Z",
+                    "value": 1168
+                },
+                {
+                    "date": "2018-06-06T01:55:40.995Z",
+                    "value": 1185
+                },
+                {
+                    "date": "2018-06-06T12:51:02.170Z",
+                    "value": 1208
+                },
+                {
+                    "date": "2018-06-11T00:15:44.313Z",
+                    "value": 1224
+                },
+                {
+                    "date": "2018-06-11T10:16:37.856Z",
+                    "value": 1240
+                },
+                {
+                    "date": "2018-06-12T13:13:52.520Z",
+                    "value": 1324
+                },
+                {
+                    "date": "2018-06-13T13:45:49.182Z",
+                    "value": 1382
+                },
+                {
+                    "date": "2018-06-14T10:10:58.945Z",
+                    "value": 1415
+                },
+                {
+                    "date": "2018-06-17T01:33:04.326Z",
+                    "value": 1474
+                },
+                {
+                    "date": "2018-06-17T05:57:06.142Z",
+                    "value": 1474
+                },
+                {
+                    "date": "2018-06-18T13:00:36.980Z",
+                    "value": 1474
+                },
+                {
+                    "date": "2018-06-20T03:45:59.619Z",
+                    "value": 1534
+                },
+                {
+                    "date": "2018-06-28T13:10:31.023Z",
+                    "value": 1592
+                },
+                {
+                    "date": "2018-07-01T01:51:24.713Z",
+                    "value": 1610
+                },
+                {
+                    "date": "2018-07-07T01:12:39.727Z",
+                    "value": 1634
+                },
+                {
+                    "date": "2020-04-12T16:38:53.806Z",
+                    "value": 1210
+                },
+                {
+                    "date": "2020-04-13T13:01:57.933Z",
+                    "value": 1213
+                },
+                {
+                    "date": "2020-04-14T23:10:28.514Z",
+                    "value": 1219
+                },
+                {
+                    "date": "2020-04-15T19:57:09.965Z",
+                    "value": 1221
+                },
+                {
+                    "date": "2020-04-16T13:10:07.691Z",
+                    "value": 1224
+                },
+                {
+                    "date": "2020-04-17T14:03:03.720Z",
+                    "value": 1224
+                },
+                {
+                    "date": "2020-04-18T13:36:43.698Z",
+                    "value": 1226
+                }
+            ],
+            "todos": [
+                {
+                    "date": 1522156344834,
+                    "value": -15.540427593425727
+                },
+                {
+                    "date": 1522780000319,
+                    "value": -77.57617801231314
+                },
+                {
+                    "date": "2018-04-17T13:43:31.463Z",
+                    "value": -141.94645670653784
+                },
+                {
+                    "date": "2018-04-18T13:44:39.280Z",
+                    "value": -153.1645763394579
+                },
+                {
+                    "date": "2018-04-19T12:42:14.212Z",
+                    "value": -164.9504943230184
+                },
+                {
+                    "date": "2018-04-24T13:06:05.464Z",
+                    "value": -177.36515757340425
+                },
+                {
+                    "date": "2018-04-25T14:43:25.794Z",
+                    "value": -190.47991187204235
+                },
+                {
+                    "date": "2018-04-26T13:22:12.707Z",
+                    "value": -204.37900914326897
+                },
+                {
+                    "date": "2018-04-27T11:57:36.073Z",
+                    "value": -219.1629167609426
+                },
+                {
+                    "date": "2018-04-29T17:38:00.532Z",
+                    "value": -234.95275648556046
+                },
+                {
+                    "date": "2018-05-01T21:55:34.585Z",
+                    "value": -251.89636735599146
+                },
+                {
+                    "date": "2018-05-02T22:56:54.248Z",
+                    "value": -270.1742257467661
+                },
+                {
+                    "date": "2018-05-03T23:59:35.688Z",
+                    "value": -288.5099414619359
+                },
+                {
+                    "date": "2018-05-04T12:42:07.128Z",
+                    "value": -306.9081469462579
+                },
+                {
+                    "date": "2018-05-05T05:45:07.774Z",
+                    "value": -325.3740500381019
+                },
+                {
+                    "date": "2018-05-07T13:17:38.130Z",
+                    "value": -343.9135328111194
+                },
+                {
+                    "date": "2018-05-09T17:30:05.473Z",
+                    "value": -363.5332724848581
+                },
+                {
+                    "date": "2018-05-10T13:19:49.232Z",
+                    "value": -383.26684727171164
+                },
+                {
+                    "date": "2018-05-11T11:54:18.985Z",
+                    "value": -400.0451384880796
+                },
+                {
+                    "date": "2018-05-12T16:34:14.779Z",
+                    "value": -418.95613093908383
+                },
+                {
+                    "date": "2018-05-14T00:06:37.472Z",
+                    "value": -437.9856423444771
+                },
+                {
+                    "date": "2018-05-14T22:37:35.205Z",
+                    "value": -457.14748802265683
+                },
+                {
+                    "date": "2018-05-16T00:03:03.014Z",
+                    "value": -126.17466160742391
+                },
+                {
+                    "date": "2018-05-17T00:47:27.087Z",
+                    "value": -132.22177543504756
+                },
+                {
+                    "date": "2018-05-18T13:27:57.011Z",
+                    "value": -94.28666567212561
+                },
+                {
+                    "date": "2018-05-19T05:29:13.220Z",
+                    "value": -97.64457862797998
+                },
+                {
+                    "date": "2018-05-20T15:33:28.687Z",
+                    "value": -101.00249158383436
+                },
+                {
+                    "date": "2018-05-22T01:52:56.344Z",
+                    "value": -104.36040453968873
+                },
+                {
+                    "date": "2018-05-22T18:18:29.421Z",
+                    "value": -107.7183174955431
+                },
+                {
+                    "date": "2018-05-24T03:17:39.803Z",
+                    "value": -111.07623045139748
+                },
+                {
+                    "date": "2018-05-26T17:28:58.207Z",
+                    "value": -114.43414340725185
+                },
+                {
+                    "date": "2018-05-27T22:11:01.485Z",
+                    "value": -117.79205636310623
+                },
+                {
+                    "date": "2018-05-28T18:11:48.547Z",
+                    "value": -121.1499693189606
+                },
+                {
+                    "date": "2018-05-30T01:48:01.413Z",
+                    "value": -124.50788227481497
+                },
+                {
+                    "date": "2018-05-30T22:54:37.963Z",
+                    "value": -128.86579523066933
+                },
+                {
+                    "date": "2018-06-05T02:51:07.076Z",
+                    "value": -133.2496648911508
+                },
+                {
+                    "date": "2018-06-06T01:55:40.995Z",
+                    "value": -137.6608653730457
+                },
+                {
+                    "date": "2018-06-06T12:51:02.170Z",
+                    "value": -142.10088235662397
+                },
+                {
+                    "date": "2018-06-11T00:15:44.313Z",
+                    "value": -146.57132545382635
+                },
+                {
+                    "date": "2018-06-11T10:16:37.856Z",
+                    "value": -144.6553600099412
+                },
+                {
+                    "date": "2018-06-12T13:13:52.520Z",
+                    "value": -149.01327296579558
+                },
+                {
+                    "date": "2018-06-13T13:45:49.182Z",
+                    "value": -153.39714262627703
+                },
+                {
+                    "date": "2018-06-14T10:10:58.945Z",
+                    "value": -157.80834310817195
+                },
+                {
+                    "date": "2018-06-17T01:33:04.326Z",
+                    "value": -162.24836009175021
+                },
+                {
+                    "date": "2018-06-17T05:57:06.142Z",
+                    "value": -166.7188031889526
+                },
+                {
+                    "date": "2018-06-18T13:00:36.980Z",
+                    "value": -171.2214200691113
+                },
+                {
+                    "date": "2018-06-20T03:45:59.619Z",
+                    "value": 0
+                },
+                {
+                    "date": "2018-06-28T13:10:31.023Z",
+                    "value": 0
+                },
+                {
+                    "date": "2018-07-01T01:51:24.713Z",
+                    "value": 0
+                },
+                {
+                    "date": "2018-07-07T01:12:39.727Z",
+                    "value": 0
+                },
+                {
+                    "date": "2020-04-12T16:38:53.806Z",
+                    "value": 0
+                },
+                {
+                    "date": "2020-04-13T13:01:57.933Z",
+                    "value": 0
+                },
+                {
+                    "date": "2020-04-14T23:10:28.514Z",
+                    "value": 0
+                },
+                {
+                    "date": "2020-04-15T19:57:09.965Z",
+                    "value": 0
+                },
+                {
+                    "date": "2020-04-16T13:10:07.691Z",
+                    "value": 0
+                },
+                {
+                    "date": "2020-04-17T14:03:03.720Z",
+                    "value": 0
+                },
+                {
+                    "date": "2020-04-18T13:36:43.698Z",
+                    "value": 0
+                }
+            ]
+        },
+        "id": "d86d63d4-671a-4082-bca6-a67e066543af",
+        "inbox": {
+            "blocks": [],
+            "messages": {},
+            "newMessages": 0,
+            "optOut": false
+        },
+        "invitations": {
+            "guilds": [],
+            "parties": [],
+            "party": {}
+        },
+        "invitesSent": 2,
+        "items": {
+            "currentPet": "",
+            "eggs": {
+                "BearCub": 2,
+                "Cactus": 1,
+                "Dragon": 0,
+                "FlyingPig": 1,
+                "Fox": 1,
+                "LionCub": 2,
+                "PandaCub": 1,
+                "Wolf": 0
+            },
+            "food": {
+                "Cake_Base": 4,
+                "Cake_CottonCandyBlue": 5,
+                "Cake_CottonCandyPink": 5,
+                "Cake_Desert": 5,
+                "Cake_Golden": 5,
+                "Cake_Red": 5,
+                "Cake_Shade": 5,
+                "Cake_Skeleton": 5,
+                "Cake_White": 5,
+                "Cake_Zombie": 5,
+                "Candy_Base": 2,
+                "Candy_CottonCandyBlue": 2,
+                "Candy_CottonCandyPink": 2,
+                "Candy_Desert": 2,
+                "Candy_Golden": 1,
+                "Candy_Red": 2,
+                "Candy_Shade": 2,
+                "Candy_Skeleton": 2,
+                "Candy_White": 2,
+                "Candy_Zombie": 2,
+                "Chocolate": 3,
+                "CottonCandyBlue": 4,
+                "CottonCandyPink": 4,
+                "Fish": 2,
+                "Honey": 3,
+                "Meat": 1,
+                "Milk": 3,
+                "Pie_Base": 2,
+                "Pie_CottonCandyBlue": 2,
+                "Pie_CottonCandyPink": 2,
+                "Pie_Desert": 2,
+                "Pie_Golden": 2,
+                "Pie_Red": 2,
+                "Pie_Shade": 2,
+                "Pie_Skeleton": 2,
+                "Pie_White": 2,
+                "Pie_Zombie": 1,
+                "Potatoe": 3,
+                "RottenMeat": 3,
+                "Saddle": 1,
+                "Strawberry": 2
+            },
+            "gear": {
+                "costume": {
+                    "armor": "armor_special_pageArmor",
+                    "head": "head_base_0",
+                    "shield": "shield_base_0"
+                },
+                "equipped": {
+                    "armor": "armor_special_pageArmor",
+                    "eyewear": "eyewear_special_blackTopFrame",
+                    "head": "head_warrior_1",
+                    "shield": "shield_base_0",
+                    "weapon": "weapon_base_0"
+                },
+                "owned": {
+                    "armor_special_bardRobes": true,
+                    "armor_special_birthday": false,
+                    "armor_special_birthday2015": false,
+                    "armor_special_pageArmor": true,
+                    "eyewear_special_blackHalfMoon": true,
+                    "eyewear_special_blackTopFrame": true,
+                    "eyewear_special_blueHalfMoon": true,
+                    "eyewear_special_blueTopFrame": true,
+                    "eyewear_special_greenHalfMoon": true,
+                    "eyewear_special_greenTopFrame": true,
+                    "eyewear_special_pinkHalfMoon": true,
+                    "eyewear_special_pinkTopFrame": true,
+                    "eyewear_special_redHalfMoon": true,
+                    "eyewear_special_redTopFrame": true,
+                    "eyewear_special_whiteHalfMoon": true,
+                    "eyewear_special_whiteTopFrame": true,
+                    "eyewear_special_yellowHalfMoon": true,
+                    "eyewear_special_yellowTopFrame": true,
+                    "headAccessory_special_blackHeadband": true,
+                    "headAccessory_special_blueHeadband": true,
+                    "headAccessory_special_greenHeadband": true,
+                    "headAccessory_special_pinkHeadband": true,
+                    "headAccessory_special_redHeadband": true,
+                    "headAccessory_special_whiteHeadband": true,
+                    "headAccessory_special_yellowHeadband": true,
+                    "head_special_bardHat": true,
+                    "head_special_nye": false,
+                    "head_special_nye2014": false,
+                    "head_special_pageHelm": true,
+                    "head_special_piDay": false,
+                    "head_warrior_1": true,
+                    "shield_special_piDay": false,
+                    "weapon_special_bardInstrument": true
+                }
+            },
+            "hatchingPotions": {
+                "Base": 2,
+                "CottonCandyPink": 2,
+                "Desert": 2,
+                "Golden": 1,
+                "RoyalPurple": 7,
+                "Shade": 0,
+                "White": 2
+            },
+            "lastDrop": {
+                "count": 0,
+                "date": "2020-04-13T01:53:00.588Z"
+            },
+            "mounts": {
+                "Gryphon-RoyalPurple": true,
+                "JackOLantern-Base": true,
+                "Orca-Base": true,
+                "Turkey-Base": true
+            },
+            "pets": {
+                "Dragon-Shade": 13,
+                "Gryphon-RoyalPurple": 5,
+                "JackOLantern-Base": 5,
+                "Orca-Base": 5,
+                "Turkey-Base": 5,
+                "Wolf-Veteran": 5,
+                "Wolf-White": 18
+            },
+            "quests": {
+                "basilist": 1,
+                "dustbunnies": 1,
+                "moon1": 1,
+                "moon2": 1,
+                "moon3": 1
+            },
+            "special": {
+                "birthday": 0,
+                "birthdayReceived": [],
+                "congrats": 0,
+                "congratsReceived": [],
+                "getwell": 0,
+                "getwellReceived": [],
+                "goodluck": 0,
+                "goodluckReceived": [],
+                "greeting": 0,
+                "greetingReceived": [],
+                "nye": 0,
+                "nyeReceived": [],
+                "seafoam": 0,
+                "shinySeed": 0,
+                "snowball": 0,
+                "spookySparkles": 0,
+                "thankyou": 0,
+                "thankyouReceived": [],
+                "valentine": 0,
+                "valentineReceived": []
+            }
+        },
+        "lastCron": "2020-04-18T13:36:43.698Z",
+        "loginIncentives": 74,
+        "migration": "20200402_webhooks_reenable-3",
+        "needsCron": false,
+        "newMessages": {
+            "2302b61c-a349-4b07-b185-03269760bc40": {
+                "name": "Weight Loss/Maintenance",
+                "value": true
+            },
+            "59685ce8-d1b0-45e9-bafc-b85e88f78e88": {
+                "name": "The Bards of Habit",
+                "value": true
+            },
+            "5cc215ef-1d98-4a26-8e18-4957661bdac3": {
+                "name": "Read Your Books",
+                "value": true
+            },
+            "9556cad0-d7b6-4019-8f0f-f9c989015e8f": {
+                "name": "The Otaku and  Gamers D\u014dj\u014d",
+                "value": true
+            }
+        },
+        "notifications": [
+            {
+                "data": {
+                    "group": {
+                        "id": "9556cad0-d7b6-4019-8f0f-f9c989015e8f",
+                        "name": "The Otaku and  Gamers D\u014dj\u014d"
+                    }
+                },
+                "id": "5492ef06-dfcd-40a0-8c8e-a1e252ab07fb",
+                "seen": false,
+                "type": "NEW_CHAT_MESSAGE"
+            },
+            {
+                "data": {
+                    "hp": 0.7000000000000028,
+                    "mp": 30
+                },
+                "id": "53aa9517-241f-44d3-943b-8461a6a8fe94",
+                "seen": false,
+                "type": "CRON"
+            },
+            {
+                "data": {
+                    "group": {
+                        "id": "5cc215ef-1d98-4a26-8e18-4957661bdac3",
+                        "name": "Read Your Books"
+                    }
+                },
+                "id": "b7f3e26b-449e-4f9e-9b96-184c68addbdc",
+                "seen": false,
+                "type": "NEW_CHAT_MESSAGE"
+            }
+        ],
+        "party": {
+            "_id": "c85ecec3-d451-41ea-bb75-d9c5c33d96ab",
+            "order": "level",
+            "orderAscending": "ascending",
+            "quest": {
+                "RSVPNeeded": false,
+                "progress": {
+                    "collect": {},
+                    "collectedItems": 0,
+                    "down": 0,
+                    "up": 0
+                }
+            }
+        },
+        "pinnedItems": [
+            {
+                "path": "potion",
+                "type": "potion"
+            },
+            {
+                "path": "armoire",
+                "type": "armoire"
+            },
+            {
+                "path": "gear.flat.weapon_warrior_0",
+                "type": "marketGear"
+            },
+            {
+                "path": "gear.flat.armor_warrior_1",
+                "type": "marketGear"
+            },
+            {
+                "path": "gear.flat.head_warrior_2",
+                "type": "marketGear"
+            },
+            {
+                "path": "gear.flat.shield_warrior_1",
+                "type": "marketGear"
+            },
+            {
+                "path": "gear.flat.weapon_warrior_4",
+                "type": "marketGear"
+            },
+            {
+                "_id": "da9856af-48e0-4b6c-a64d-6b065f8682b4",
+                "path": "gear.flat.head_special_nye",
+                "type": "marketGear"
+            },
+            {
+                "_id": "2c253caf-f2d4-4a38-b558-1771cd480529",
+                "path": "gear.flat.armor_special_birthday",
+                "type": "marketGear"
+            },
+            {
+                "path": "gear.flat.head_special_piDay",
+                "type": "marketGear"
+            },
+            {
+                "path": "gear.flat.shield_special_piDay",
+                "type": "marketGear"
+            },
+            {
+                "path": "gear.flat.head_special_nye2014",
+                "type": "marketGear"
+            },
+            {
+                "path": "gear.flat.armor_special_birthday2015",
+                "type": "marketGear"
+            }
+        ],
+        "pinnedItemsOrder": [],
+        "preferences": {
+            "advancedCollapsed": false,
+            "allocationMode": "flat",
+            "autoEquip": false,
+            "background": "violet",
+            "chair": "none",
+            "costume": true,
+            "dailyDueDefaultView": false,
+            "dateFormat": "MM/dd/yyyy",
+            "dayStart": 0,
+            "disableClasses": false,
+            "displayInviteToPartyWhenPartyIs1": true,
+            "emailNotifications": {
+                "giftedGems": true,
+                "giftedSubscription": true,
+                "importantAnnouncements": true,
+                "invitedGuild": true,
+                "invitedParty": true,
+                "invitedQuest": true,
+                "kickedGroup": true,
+                "majorUpdates": true,
+                "newPM": true,
+                "onboarding": true,
+                "questStarted": true,
+                "subscriptionReminders": true,
+                "unsubscribeFromAll": false,
+                "weeklyRecaps": true,
+                "wonChallenge": true
+            },
+            "hair": {
+                "bangs": 3,
+                "base": 0,
+                "beard": 0,
+                "color": "black",
+                "flower": 0,
+                "mustache": 0
+            },
+            "hideHeader": false,
+            "improvementCategories": [],
+            "language": "en",
+            "newTaskEdit": false,
+            "pushNotifications": {
+                "giftedGems": true,
+                "giftedSubscription": true,
+                "invitedGuild": true,
+                "invitedParty": true,
+                "invitedQuest": true,
+                "majorUpdates": true,
+                "mentionJoinedGuild": true,
+                "mentionParty": true,
+                "mentionUnjoinedGuild": true,
+                "newPM": true,
+                "partyActivity": true,
+                "questStarted": true,
+                "unsubscribeFromAll": false,
+                "wonChallenge": true
+            },
+            "reverseChatOrder": false,
+            "shirt": "blue",
+            "size": "slim",
+            "skin": "ddc994",
+            "sleep": false,
+            "sound": "rosstavoTheme",
+            "stickyHeader": true,
+            "suppressModals": {
+                "hatchPet": false,
+                "levelUp": false,
+                "raisePet": false,
+                "streak": false
+            },
+            "tasks": {
+                "confirmScoreNotes": false,
+                "groupByChallenge": false
+            },
+            "timezoneOffset": 240,
+            "timezoneOffsetAtLastCron": 240,
+            "toolbarCollapsed": false,
+            "webhooks": {}
+        },
+        "profile": {
+            "name": "davildaran"
+        },
+        "purchased": {
+            "ads": false,
+            "background": {
+                "blue": true,
+                "green": true,
+                "purple": true,
+                "red": true,
+                "violet": true,
+                "yellow": true
+            },
+            "hair": {},
+            "plan": {
+                "consecutive": {
+                    "count": 0,
+                    "gemCapExtra": 0,
+                    "offset": 0,
+                    "trinkets": 0
+                },
+                "dateUpdated": "2018-03-27T13:12:25.068Z",
+                "extraMonths": 0,
+                "gemsBought": 0,
+                "mysteryItems": [],
+                "quantity": 1
+            },
+            "shirt": {},
+            "skin": {},
+            "txnCount": 0
+        },
+        "pushDevices": [
+            {
+                "createdAt": "2018-03-26T01:23:50.995Z",
+                "regId": "dVEXKwHi3MY:APA91bE7jofDUwscXoyj2gp6_h9omD2DLRkz1dDUIA2bNtRiJWWRlR892undP8jQ033puwO9w7dWu7uoYG6G1a-f-kwv_cScbMiesZhaBkTbY0gHaTms6e8LktRz7693XAre8Y3oVRB2",
+                "type": "android",
+                "updatedAt": "2020-04-18T13:36:43.784Z"
+            },
+            {
+                "createdAt": "2020-04-12T16:38:32.872Z",
+                "regId": "fZAJMqwdOYI:APA91bFPl8Dx4rJlyPZui5w6YqoSIAk6gxo8R84S1wUMfFoJ6Rr8ayOVgYqyCIz4qQiBa93Kbc3OGHed119VkInUPzqZD7iH58sMwbXehnrxzFRq7SWyqFwzrztvJbf522vlpaTffWeL",
+                "type": "android",
+                "updatedAt": "2020-04-18T13:36:43.784Z"
+            }
+        ],
+        "stats": {
+            "buffs": {
+                "con": 0,
+                "int": 0,
+                "per": 0,
+                "seafoam": false,
+                "shinySeed": false,
+                "snowball": false,
+                "spookySparkles": false,
+                "stealth": 0,
+                "str": 0,
+                "streaks": false
+            },
+            "class": "warrior",
+            "con": 0,
+            "exp": 156,
+            "gp": 28.982076311738087,
+            "hp": 46.900000000000006,
+            "int": 2,
+            "lvl": 9,
+            "maxHealth": 50,
+            "maxMP": 42,
+            "mp": 42,
+            "per": 0,
+            "points": 7,
+            "str": 0,
+            "toNextLevel": 250,
+            "training": {
+                "con": 0,
+                "int": 0,
+                "per": 0,
+                "str": 0
+            }
+        },
+        "tags": [],
+        "tasksOrder": {
+            "dailys": [
+                "a1f7c298-7792-4d9a-b9ee-8fba4e1ab4a9",
+                "3b08fc94-2c15-4181-81b0-2545b3ec589b",
+                "3300e265-60a5-426e-9419-79ee51f9068c",
+                "6369e61a-42ae-4c11-be3e-c3e545ab6e5b"
+            ],
+            "habits": [
+                "ab5bd478-101f-4369-9127-f88948190a58",
+                "5942c645-5339-427f-acae-b87ddc8b6b3a",
+                "1a78a0bb-51f3-4fb1-8262-f049fd3ccae9",
+                "af517647-71b7-4703-ab84-d7e5d68e2c36",
+                "b383d8b4-f9bb-4f65-b074-4b89cd327a65",
+                "b93cd498-992c-4a0b-a746-b376467fe3e3",
+                "84873381-4ee2-497f-af11-64208d2ab302",
+                "23cae70e-1c3f-4cc3-9b1e-f58313918cb7",
+                "e506de08-fc5a-40cc-9888-dbd1334215c4",
+                "5d8ae061-744e-49c1-b9e0-7592ef2a579f",
+                "902b6c1b-3abe-4d6f-917c-0ae1aa020260"
+            ],
+            "rewards": [],
+            "todos": []
+        },
+        "unpinnedItems": [],
+        "webhooks": []
+    },
+    "notifications": [
+        {
+            "data": {
+                "group": {
+                    "id": "9556cad0-d7b6-4019-8f0f-f9c989015e8f",
+                    "name": "The Otaku and  Gamers D\u014dj\u014d"
+                }
+            },
+            "id": "5492ef06-dfcd-40a0-8c8e-a1e252ab07fb",
+            "seen": false,
+            "type": "NEW_CHAT_MESSAGE"
+        },
+        {
+            "data": {
+                "hp": 0.7000000000000028,
+                "mp": 30
+            },
+            "id": "53aa9517-241f-44d3-943b-8461a6a8fe94",
+            "seen": false,
+            "type": "CRON"
+        },
+        {
+            "data": {
+                "group": {
+                    "id": "5cc215ef-1d98-4a26-8e18-4957661bdac3",
+                    "name": "Read Your Books"
+                }
+            },
+            "id": "b7f3e26b-449e-4f9e-9b96-184c68addbdc",
+            "seen": false,
+            "type": "NEW_CHAT_MESSAGE"
+        }
+    ],
+    "success": true,
+    "userV": 35208
+}

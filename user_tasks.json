@@ -1,0 +1,1398 @@
+{
+    "success": true,
+    "data": [
+        {
+            "challenge": {},
+            "group": {
+                "approval": {
+                    "required": false,
+                    "approved": false,
+                    "requested": false
+                },
+                "assignedUsers": [],
+                "sharedCompletion": "singleCompletion"
+            },
+            "up": true,
+            "down": false,
+            "counterUp": 0,
+            "counterDown": 0,
+            "frequency": "daily",
+            "history": [
+                {
+                    "date": 1522448739606,
+                    "value": 2.9253562257358428,
+                    "scoredUp": 3,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1522780018658,
+                    "value": 1.712772612541253,
+                    "scoredUp": 0,
+                    "scoredDown": 1
+                },
+                {
+                    "date": 1523215082230,
+                    "value": 1.0521534988298686,
+                    "scoredUp": 0,
+                    "scoredDown": 1
+                },
+                {
+                    "date": 1523581061779,
+                    "value": 3.912641139696075,
+                    "scoredUp": 4,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1523719349444,
+                    "value": 1.9534059329932447,
+                    "scoredUp": 0,
+                    "scoredDown": 1
+                },
+                {
+                    "date": 1523847437155,
+                    "value": 2.9031947834215446,
+                    "scoredUp": 1,
+                    "scoredDown": 1
+                },
+                {
+                    "date": 1524787489061,
+                    "value": 1,
+                    "scoredUp": 0,
+                    "scoredDown": 1
+                },
+                {
+                    "date": 1524885083443,
+                    "value": 1.48726896031426,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1525311638278,
+                    "value": 1.1811559397375033,
+                    "scoredUp": 0,
+                    "scoredDown": 1
+                },
+                {
+                    "date": 1525391985059,
+                    "value": 1.5755580276706471,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1525499116911,
+                    "value": 1.3838466423598499,
+                    "scoredUp": 0,
+                    "scoredDown": 1
+                },
+                {
+                    "date": 1525699071218,
+                    "value": 1.6743486748538752,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1526157611880,
+                    "value": 1.1019687531816582,
+                    "scoredUp": 0,
+                    "scoredDown": 1
+                },
+                {
+                    "date": 1526262799242,
+                    "value": 2.498344285289486,
+                    "scoredUp": 2,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1526345724142,
+                    "value": 2.2176683421463053,
+                    "scoredUp": 0,
+                    "scoredDown": 1
+                },
+                {
+                    "date": 1526650078782,
+                    "value": 1.270130093126114,
+                    "scoredUp": 0,
+                    "scoredDown": 1
+                },
+                {
+                    "date": 1526783003158,
+                    "value": 1.6189228612848665,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1527033792827,
+                    "value": 2.1669801459389646,
+                    "scoredUp": 1,
+                    "scoredDown": 1
+                },
+                {
+                    "date": 1527649434365,
+                    "value": 1.065984320192572,
+                    "scoredUp": 0,
+                    "scoredDown": 1
+                },
+                {
+                    "date": 1527811882870,
+                    "value": 1.5194267943350277,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1528763335588,
+                    "value": 1,
+                    "scoredUp": 0,
+                    "scoredDown": 1
+                },
+                {
+                    "date": 1528943390946,
+                    "value": 1.243614090235369,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                }
+            ],
+            "type": "habit",
+            "notes": "",
+            "tags": [],
+            "value": 0,
+            "priority": 0.1,
+            "attribute": "str",
+            "byHabitica": false,
+            "reminders": [],
+            "createdAt": "2018-03-26T01:25:15.457Z",
+            "updatedAt": "2020-04-12T17:03:19.000Z",
+            "_id": "e506de08-fc5a-40cc-9888-dbd1334215c4",
+            "text": "Read",
+            "userId": "d86d63d4-671a-4082-bca6-a67e066543af",
+            "id": "e506de08-fc5a-40cc-9888-dbd1334215c4"
+        },
+        {
+            "challenge": {},
+            "group": {
+                "approval": {
+                    "required": false,
+                    "approved": false,
+                    "requested": false
+                },
+                "assignedUsers": [],
+                "sharedCompletion": "singleCompletion"
+            },
+            "up": true,
+            "down": false,
+            "counterUp": 0,
+            "counterDown": 0,
+            "frequency": "weekly",
+            "history": [
+                {
+                    "date": 1525541162156,
+                    "value": 2.9253562257358428,
+                    "scoredUp": 3,
+                    "scoredDown": 0
+                }
+            ],
+            "type": "habit",
+            "notes": "Wipe countertops \nSweep floor\nMop floor\nTake out trash and recycling",
+            "tags": [],
+            "value": 0,
+            "priority": 1,
+            "attribute": "str",
+            "byHabitica": false,
+            "reminders": [],
+            "createdAt": "2018-03-26T01:23:48.620Z",
+            "updatedAt": "2020-04-12T17:03:07.207Z",
+            "_id": "902b6c1b-3abe-4d6f-917c-0ae1aa020260",
+            "text": "Clean apartment",
+            "userId": "d86d63d4-671a-4082-bca6-a67e066543af",
+            "id": "902b6c1b-3abe-4d6f-917c-0ae1aa020260"
+        },
+        {
+            "challenge": {},
+            "group": {
+                "approval": {
+                    "required": false,
+                    "approved": false,
+                    "requested": false
+                },
+                "assignedUsers": [],
+                "sharedCompletion": "singleCompletion"
+            },
+            "up": true,
+            "down": false,
+            "counterUp": 0,
+            "counterDown": 0,
+            "frequency": "monthly",
+            "history": [
+                {
+                    "date": 1525397210189,
+                    "value": 1,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1525699073298,
+                    "value": 1.1218019312959666,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1525919608228,
+                    "value": 1.5466303753282034,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1526349539167,
+                    "value": 1,
+                    "scoredUp": 0,
+                    "scoredDown": 1
+                },
+                {
+                    "date": 1526518053283,
+                    "value": 1.243614090235369,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                }
+            ],
+            "type": "habit",
+            "notes": "Novella story",
+            "tags": [],
+            "value": 0,
+            "priority": 1,
+            "attribute": "str",
+            "byHabitica": false,
+            "reminders": [],
+            "createdAt": "2018-03-26T01:24:43.439Z",
+            "updatedAt": "2020-04-12T17:03:15.241Z",
+            "_id": "5d8ae061-744e-49c1-b9e0-7592ef2a579f",
+            "text": "Write",
+            "userId": "d86d63d4-671a-4082-bca6-a67e066543af",
+            "id": "5d8ae061-744e-49c1-b9e0-7592ef2a579f"
+        },
+        {
+            "repeat": {
+                "m": true,
+                "t": true,
+                "w": true,
+                "th": true,
+                "f": true,
+                "s": true,
+                "su": true
+            },
+            "challenge": {},
+            "group": {
+                "approval": {
+                    "required": false,
+                    "approved": false,
+                    "requested": false
+                },
+                "assignedUsers": [],
+                "sharedCompletion": "singleCompletion"
+            },
+            "frequency": "daily",
+            "everyX": 1,
+            "streak": 6,
+            "daysOfMonth": [],
+            "weeksOfMonth": [],
+            "nextDue": [
+                "Sun Apr 19 2020 00:00:00 GMT-0400",
+                "Mon Apr 20 2020 00:00:00 GMT-0400",
+                "Tue Apr 21 2020 00:00:00 GMT-0400",
+                "Wed Apr 22 2020 00:00:00 GMT-0400",
+                "Thu Apr 23 2020 00:00:00 GMT-0400",
+                "Fri Apr 24 2020 00:00:00 GMT-0400"
+            ],
+            "yesterDaily": true,
+            "history": [
+                {
+                    "date": 1522156500442,
+                    "value": 2.438297439318646
+                },
+                {
+                    "date": 1522780000508,
+                    "value": 5.452064173119981
+                },
+                {
+                    "date": 1524059085241,
+                    "value": 8.293185267165924
+                },
+                {
+                    "date": 1524141739036,
+                    "value": 9.101731503225336
+                },
+                {
+                    "date": 1524575180993,
+                    "value": 9.893697474040668
+                },
+                {
+                    "date": 1524667424293,
+                    "value": 10.669752838068947
+                },
+                {
+                    "date": 1524748936914,
+                    "value": 11.430527357860369
+                },
+                {
+                    "date": 1524835050396,
+                    "value": 12.176614014844596
+                },
+                {
+                    "date": 1525023492353,
+                    "value": 12.908571825411949
+                },
+                {
+                    "date": 1525211742430,
+                    "value": 13.626928392067674
+                },
+                {
+                    "date": 1525301817265,
+                    "value": 14.332182219058105
+                },
+                {
+                    "date": 1525391981247,
+                    "value": 15.024804818125988
+                },
+                {
+                    "date": 1525437745195,
+                    "value": 15.70524613991252
+                },
+                {
+                    "date": 1525541174765,
+                    "value": 16.37392221210281
+                },
+                {
+                    "date": 1525699063401,
+                    "value": 17.03123800065784
+                },
+                {
+                    "date": 1525887013037,
+                    "value": 17.67757463784301
+                },
+                {
+                    "date": 1525958864508,
+                    "value": 18.313294341044465
+                },
+                {
+                    "date": 1526039664497,
+                    "value": 18.938741646460574
+                },
+                {
+                    "date": 1526256396804,
+                    "value": 19.554244543671473
+                },
+                {
+                    "date": 1526256421387,
+                    "value": 20.16011552050435
+                },
+                {
+                    "date": 1526337472734,
+                    "value": 20.756652526583295
+                },
+                {
+                    "date": 1526429001710,
+                    "value": 21.344139863050504
+                },
+                {
+                    "date": 1526650077280,
+                    "value": 20.764330201058936
+                },
+                {
+                    "date": 1526667493698,
+                    "value": 21.351701963927084
+                },
+                {
+                    "date": 1526830408050,
+                    "value": 21.931511625918652
+                },
+                {
+                    "date": 1526830417069,
+                    "value": 22.51132128791022
+                },
+                {
+                    "date": 1527013109493,
+                    "value": 21.931511625918652
+                },
+                {
+                    "date": 1527131859883,
+                    "value": 21.351701963927084
+                },
+                {
+                    "date": 1527355737684,
+                    "value": 21.931511625918652
+                },
+                {
+                    "date": 1527355749922,
+                    "value": 22.51132128791022
+                },
+                {
+                    "date": 1527531108092,
+                    "value": 23.09113094990179
+                },
+                {
+                    "date": 1527644880632,
+                    "value": 23.670940611893357
+                },
+                {
+                    "date": 1527644896290,
+                    "value": 24.250750273884925
+                },
+                {
+                    "date": 1527720894359,
+                    "value": 24.830559935876494
+                },
+                {
+                    "date": 1528167077328,
+                    "value": 25.410369597868062
+                },
+                {
+                    "date": 1528289462443,
+                    "value": 24.830559935876494
+                },
+                {
+                    "date": 1528289469679,
+                    "value": 25.410369597868062
+                },
+                {
+                    "date": 1528676339482,
+                    "value": 25.99017925985963
+                },
+                {
+                    "date": 1528712201578,
+                    "value": 26.5699889218512
+                },
+                {
+                    "date": 1528809239199,
+                    "value": 27.149798583842767
+                },
+                {
+                    "date": 1528897555955,
+                    "value": 27.729608245834335
+                },
+                {
+                    "date": 1528971071091,
+                    "value": 28.309417907825903
+                },
+                {
+                    "date": 1529215026411,
+                    "value": 27.729608245834335
+                },
+                {
+                    "date": 1529326837041,
+                    "value": 27.149798583842767
+                },
+                {
+                    "date": 1529326856477,
+                    "value": 27.729608245834335
+                },
+                {
+                    "date": 1529466364762,
+                    "value": 28.309417907825903
+                },
+                {
+                    "date": 1530191450687,
+                    "value": 28.88922756981747
+                },
+                {
+                    "date": 1530409895881,
+                    "value": 29.46903723180904
+                },
+                {
+                    "date": 1530925968623,
+                    "value": 30.048846893800608
+                },
+                {
+                    "date": 1586712067268,
+                    "value": 30.628656555792176
+                },
+                {
+                    "date": 1586782922344,
+                    "value": 31.208466217783744
+                },
+                {
+                    "date": 1586905838829,
+                    "value": 31.788275879775313
+                },
+                {
+                    "date": 1586980636543,
+                    "value": 32.36808554176688
+                },
+                {
+                    "date": 1587078867146,
+                    "value": 32.94789520375845
+                },
+                {
+                    "date": 1587132189714,
+                    "value": 33.52770486575002
+                }
+            ],
+            "completed": false,
+            "collapseChecklist": false,
+            "type": "daily",
+            "notes": "Brush, tongue scraper, mouthwash",
+            "tags": [],
+            "value": 33.52770486575002,
+            "priority": 0.1,
+            "attribute": "str",
+            "byHabitica": false,
+            "startDate": "2020-04-12T13:13:31.294Z",
+            "checklist": [],
+            "reminders": [],
+            "createdAt": "2018-03-27T13:14:36.234Z",
+            "updatedAt": "2020-04-18T13:36:43.778Z",
+            "_id": "6369e61a-42ae-4c11-be3e-c3e545ab6e5b",
+            "text": "Dental hygiene morning",
+            "userId": "d86d63d4-671a-4082-bca6-a67e066543af",
+            "isDue": true,
+            "id": "6369e61a-42ae-4c11-be3e-c3e545ab6e5b"
+        },
+        {
+            "challenge": {},
+            "group": {
+                "approval": {
+                    "required": false,
+                    "approved": false,
+                    "requested": false
+                },
+                "assignedUsers": [],
+                "sharedCompletion": "singleCompletion"
+            },
+            "up": true,
+            "down": false,
+            "counterUp": 0,
+            "counterDown": 0,
+            "frequency": "daily",
+            "history": [
+                {
+                    "date": 1522983945760,
+                    "value": 1,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                }
+            ],
+            "type": "habit",
+            "notes": "",
+            "tags": [],
+            "value": 0,
+            "priority": 0.1,
+            "attribute": "str",
+            "byHabitica": false,
+            "reminders": [],
+            "createdAt": "2018-03-28T12:13:09.910Z",
+            "updatedAt": "2020-04-12T17:03:23.937Z",
+            "_id": "23cae70e-1c3f-4cc3-9b1e-f58313918cb7",
+            "text": "Play guitar",
+            "userId": "d86d63d4-671a-4082-bca6-a67e066543af",
+            "id": "23cae70e-1c3f-4cc3-9b1e-f58313918cb7"
+        },
+        {
+            "challenge": {},
+            "group": {
+                "approval": {
+                    "required": false,
+                    "approved": false,
+                    "requested": false
+                },
+                "assignedUsers": [],
+                "sharedCompletion": "singleCompletion"
+            },
+            "up": true,
+            "down": false,
+            "counterUp": 0,
+            "counterDown": 0,
+            "frequency": "monthly",
+            "history": [],
+            "type": "habit",
+            "notes": "",
+            "tags": [],
+            "value": 0,
+            "priority": 1,
+            "attribute": "str",
+            "byHabitica": false,
+            "reminders": [],
+            "createdAt": "2018-03-28T12:13:34.822Z",
+            "updatedAt": "2020-04-12T17:03:32.072Z",
+            "_id": "84873381-4ee2-497f-af11-64208d2ab302",
+            "text": "Practice Japanese",
+            "userId": "d86d63d4-671a-4082-bca6-a67e066543af",
+            "id": "84873381-4ee2-497f-af11-64208d2ab302"
+        },
+        {
+            "repeat": {
+                "m": true,
+                "t": true,
+                "w": true,
+                "th": true,
+                "f": true,
+                "s": true,
+                "su": true
+            },
+            "challenge": {},
+            "group": {
+                "approval": {
+                    "required": false,
+                    "approved": false,
+                    "requested": false
+                },
+                "assignedUsers": [],
+                "sharedCompletion": "singleCompletion"
+            },
+            "frequency": "daily",
+            "everyX": 1,
+            "streak": 0,
+            "daysOfMonth": [],
+            "weeksOfMonth": [],
+            "nextDue": [
+                "Sun Apr 19 2020 00:00:00 GMT-0400",
+                "Mon Apr 20 2020 00:00:00 GMT-0400",
+                "Tue Apr 21 2020 00:00:00 GMT-0400",
+                "Wed Apr 22 2020 00:00:00 GMT-0400",
+                "Thu Apr 23 2020 00:00:00 GMT-0400",
+                "Fri Apr 24 2020 00:00:00 GMT-0400"
+            ],
+            "yesterDaily": true,
+            "history": [
+                {
+                    "date": 1523620299344,
+                    "value": -1
+                },
+                {
+                    "date": 1523716006552,
+                    "value": -2.025956704627065
+                },
+                {
+                    "date": 1523767894870,
+                    "value": -3.079244230667636
+                },
+                {
+                    "date": 1523927863916,
+                    "value": -4.161348258391507
+                },
+                {
+                    "date": 1523972611639,
+                    "value": -5.273878399739519
+                },
+                {
+                    "date": 1524059079324,
+                    "value": -6.418582324043852
+                },
+                {
+                    "date": 1524141734386,
+                    "value": -7.597361948942557
+                },
+                {
+                    "date": 1524575165640,
+                    "value": -8.812292068721371
+                },
+                {
+                    "date": 1524667405837,
+                    "value": -10.065641872820203
+                },
+                {
+                    "date": 1524748932880,
+                    "value": -11.3598999082337
+                },
+                {
+                    "date": 1524830256248,
+                    "value": -12.697803167060998
+                },
+                {
+                    "date": 1525023480709,
+                    "value": -14.082371142610924
+                },
+                {
+                    "date": 1525211734802,
+                    "value": -15.516945905169635
+                },
+                {
+                    "date": 1525301814300,
+                    "value": -17.005239516672432
+                },
+                {
+                    "date": 1525391975870,
+                    "value": -18.55139045257033
+                },
+                {
+                    "date": 1525397198362,
+                    "value": -16.94274974752023
+                },
+                {
+                    "date": 1525499107821,
+                    "value": -18.48642675981346
+                },
+                {
+                    "date": 1525699058439,
+                    "value": -20.09239173989324
+                },
+                {
+                    "date": 1525887005729,
+                    "value": -21.76582697676719
+                },
+                {
+                    "date": 1525958388733,
+                    "value": -20.019069434905617
+                },
+                {
+                    "date": 1526039658379,
+                    "value": -18.348775503965868
+                },
+                {
+                    "date": 1526142854869,
+                    "value": -19.949085600488672
+                },
+                {
+                    "date": 1526256397771,
+                    "value": -21.61638675396888
+                },
+                {
+                    "date": 1526263566268,
+                    "value": -19.876305606620186
+                },
+                {
+                    "date": 1526428983292,
+                    "value": -21.54050009600551
+                },
+                {
+                    "date": 1526429002441,
+                    "value": -19.803799487107
+                },
+                {
+                    "date": 1526650077293,
+                    "value": -21.464904758906293
+                },
+                {
+                    "date": 1526707753297,
+                    "value": -23.19823745113609
+                },
+                {
+                    "date": 1526830408954,
+                    "value": -25.010303284690178
+                },
+                {
+                    "date": 1526953976613,
+                    "value": -26.90849692491979
+                },
+                {
+                    "date": 1527013109513,
+                    "value": -28.901305463840668
+                },
+                {
+                    "date": 1527131859899,
+                    "value": -30.99852362205552
+                },
+                {
+                    "date": 1527355736835,
+                    "value": -28.785512373910272
+                },
+                {
+                    "date": 1527459060877,
+                    "value": -26.694507986562403
+                },
+                {
+                    "date": 1527531108628,
+                    "value": -28.676418699871572
+                },
+                {
+                    "date": 1527644879867,
+                    "value": -26.591251730018566
+                },
+                {
+                    "date": 1527644894401,
+                    "value": -24.614578216866484
+                },
+                {
+                    "date": 1528167067147,
+                    "value": -26.49362016841154
+                },
+                {
+                    "date": 1528167080240,
+                    "value": -24.52188583891419
+                },
+                {
+                    "date": 1528250178511,
+                    "value": -22.647301865865295
+                },
+                {
+                    "date": 1528676144379,
+                    "value": -24.433964649114923
+                },
+                {
+                    "date": 1528712198112,
+                    "value": -26.304329885041163
+                },
+                {
+                    "date": 1528765839621,
+                    "value": -24.342136623551642
+                },
+                {
+                    "date": 1528858338349,
+                    "value": -22.4761674510052
+                },
+                {
+                    "date": 1528971058181,
+                    "value": -20.697322766805
+                },
+                {
+                    "date": 1529199184610,
+                    "value": -22.39690118423396
+                },
+                {
+                    "date": 1529215026432,
+                    "value": -24.17213627251948
+                },
+                {
+                    "date": 1529326837059,
+                    "value": -26.02999430666873
+                },
+                {
+                    "date": 1529377302444,
+                    "value": -24.08154688944459
+                },
+                {
+                    "date": 1529466367829,
+                    "value": -22.227996689632914
+                },
+                {
+                    "date": 1530409884177,
+                    "value": -20.460428693836366
+                },
+                {
+                    "date": 1530925959941,
+                    "value": -22.14972100460145
+                },
+                {
+                    "date": 1586709533627,
+                    "value": -20.385694944468685
+                },
+                {
+                    "date": 1586742782087,
+                    "value": -18.699634690180503
+                },
+                {
+                    "date": 1586832084846,
+                    "value": -17.08487139483271
+                },
+                {
+                    "date": 1586980630016,
+                    "value": -18.634180643892993
+                },
+                {
+                    "date": 1587004430038,
+                    "value": -17.022123514053852
+                },
+                {
+                    "date": 1587132183767,
+                    "value": -18.568943554949634
+                },
+                {
+                    "date": 1587217003751,
+                    "value": -20.178308001994978
+                }
+            ],
+            "completed": false,
+            "collapseChecklist": false,
+            "type": "daily",
+            "notes": "Brush, floss, tongue scraper, mouthwash",
+            "tags": [],
+            "value": -20.178308001994978,
+            "priority": 0.1,
+            "attribute": "str",
+            "byHabitica": false,
+            "startDate": "2018-04-13T00:58:20.588Z",
+            "checklist": [],
+            "reminders": [],
+            "createdAt": "2018-04-13T00:58:39.845Z",
+            "updatedAt": "2020-04-18T13:36:43.778Z",
+            "_id": "3300e265-60a5-426e-9419-79ee51f9068c",
+            "text": "Dental hygiene night",
+            "userId": "d86d63d4-671a-4082-bca6-a67e066543af",
+            "isDue": true,
+            "id": "3300e265-60a5-426e-9419-79ee51f9068c"
+        },
+        {
+            "challenge": {},
+            "group": {
+                "approval": {
+                    "required": false,
+                    "approved": false,
+                    "requested": false
+                },
+                "assignedUsers": [],
+                "sharedCompletion": "singleCompletion"
+            },
+            "up": true,
+            "down": false,
+            "counterUp": 0,
+            "counterDown": 0,
+            "frequency": "monthly",
+            "history": [
+                {
+                    "date": 1523927941429,
+                    "value": 1,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1524014655253,
+                    "value": 2.449874004850711,
+                    "scoredUp": 2,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1524885066346,
+                    "value": 1,
+                    "scoredUp": 0,
+                    "scoredDown": 1
+                }
+            ],
+            "type": "habit",
+            "notes": "",
+            "tags": [],
+            "value": 0,
+            "priority": 1,
+            "attribute": "str",
+            "byHabitica": false,
+            "reminders": [],
+            "createdAt": "2018-04-17T01:18:59.415Z",
+            "updatedAt": "2020-04-12T17:05:28.528Z",
+            "_id": "b93cd498-992c-4a0b-a746-b376467fe3e3",
+            "text": "Make sourdough",
+            "userId": "d86d63d4-671a-4082-bca6-a67e066543af",
+            "id": "b93cd498-992c-4a0b-a746-b376467fe3e3"
+        },
+        {
+            "challenge": {},
+            "group": {
+                "approval": {
+                    "required": false,
+                    "approved": false,
+                    "requested": false
+                },
+                "assignedUsers": [],
+                "sharedCompletion": "singleCompletion"
+            },
+            "up": true,
+            "down": false,
+            "counterUp": 2,
+            "counterDown": 0,
+            "frequency": "monthly",
+            "history": [
+                {
+                    "date": 1526707754634,
+                    "value": 1,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1528250151308,
+                    "value": 1,
+                    "scoredUp": 0,
+                    "scoredDown": 1
+                },
+                {
+                    "date": 1586829615114,
+                    "value": 1.9747,
+                    "scoredUp": 2,
+                    "scoredDown": 0
+                }
+            ],
+            "type": "habit",
+            "notes": "Watch lectures with active note taking\nFollow interactive coding lectures in Colab Notebooks",
+            "tags": [],
+            "value": 0.061709375,
+            "priority": 0.1,
+            "attribute": "str",
+            "byHabitica": false,
+            "reminders": [],
+            "createdAt": "2018-05-17T00:48:46.780Z",
+            "updatedAt": "2020-04-18T13:36:43.778Z",
+            "_id": "b383d8b4-f9bb-4f65-b074-4b89cd327a65",
+            "text": "Tensorflow 2.0 Deep Learning Course",
+            "userId": "d86d63d4-671a-4082-bca6-a67e066543af",
+            "id": "b383d8b4-f9bb-4f65-b074-4b89cd327a65"
+        },
+        {
+            "challenge": {},
+            "group": {
+                "approval": {
+                    "required": false,
+                    "approved": false,
+                    "requested": false
+                },
+                "assignedUsers": [],
+                "sharedCompletion": "singleCompletion"
+            },
+            "up": true,
+            "down": false,
+            "counterUp": 0,
+            "counterDown": 0,
+            "frequency": "daily",
+            "history": [
+                {
+                    "date": 1528763309587,
+                    "value": 1,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1528976228707,
+                    "value": 2.0934644004044816,
+                    "scoredUp": 2,
+                    "scoredDown": 0
+                }
+            ],
+            "type": "habit",
+            "notes": "",
+            "tags": [],
+            "value": 0,
+            "priority": 1,
+            "attribute": "str",
+            "byHabitica": false,
+            "reminders": [],
+            "createdAt": "2018-06-11T14:45:00.232Z",
+            "updatedAt": "2020-04-12T17:05:19.113Z",
+            "_id": "af517647-71b7-4703-ab84-d7e5d68e2c36",
+            "text": "Get to work before 8 am",
+            "userId": "d86d63d4-671a-4082-bca6-a67e066543af",
+            "id": "af517647-71b7-4703-ab84-d7e5d68e2c36"
+        },
+        {
+            "challenge": {},
+            "group": {
+                "approval": {
+                    "required": false,
+                    "approved": false,
+                    "requested": false
+                },
+                "assignedUsers": [],
+                "sharedCompletion": "singleCompletion"
+            },
+            "up": true,
+            "down": false,
+            "counterUp": 0,
+            "counterDown": 0,
+            "frequency": "daily",
+            "history": [
+                {
+                    "date": 1530925981866,
+                    "value": 1,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1586782937855,
+                    "value": 1.243614090235369,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                }
+            ],
+            "type": "habit",
+            "notes": "",
+            "tags": [],
+            "value": 0,
+            "priority": 0.1,
+            "attribute": "str",
+            "byHabitica": false,
+            "reminders": [],
+            "createdAt": "2018-06-11T14:45:18.925Z",
+            "updatedAt": "2020-04-18T13:36:43.778Z",
+            "_id": "1a78a0bb-51f3-4fb1-8262-f049fd3ccae9",
+            "text": "Get to work before 9 am",
+            "userId": "d86d63d4-671a-4082-bca6-a67e066543af",
+            "id": "1a78a0bb-51f3-4fb1-8262-f049fd3ccae9"
+        },
+        {
+            "challenge": {},
+            "group": {
+                "approval": {
+                    "required": false,
+                    "approved": false,
+                    "requested": false
+                },
+                "assignedUsers": [],
+                "sharedCompletion": "singleCompletion"
+            },
+            "up": false,
+            "down": true,
+            "counterUp": 0,
+            "counterDown": 0,
+            "frequency": "daily",
+            "history": [
+                {
+                    "date": 1528809685354,
+                    "value": -1.026657310999762,
+                    "scoredUp": 0,
+                    "scoredDown": 1
+                },
+                {
+                    "date": 1528897550948,
+                    "value": -1.5539525155173857,
+                    "scoredUp": 0,
+                    "scoredDown": 1
+                },
+                {
+                    "date": 1529326865008,
+                    "value": -1.126406974849274,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1529466379814,
+                    "value": -1.6051946948078335,
+                    "scoredUp": 0,
+                    "scoredDown": 1
+                },
+                {
+                    "date": 1530191454437,
+                    "value": -1.8511774174554443,
+                    "scoredUp": 0,
+                    "scoredDown": 1
+                },
+                {
+                    "date": 1587042609581,
+                    "value": -1.026657310999762,
+                    "scoredUp": 0,
+                    "scoredDown": 1
+                }
+            ],
+            "type": "habit",
+            "notes": "",
+            "tags": [],
+            "value": -0.2566643277499405,
+            "priority": 1,
+            "attribute": "str",
+            "byHabitica": false,
+            "reminders": [],
+            "createdAt": "2018-06-11T14:45:50.835Z",
+            "updatedAt": "2020-04-18T13:36:43.778Z",
+            "_id": "5942c645-5339-427f-acae-b87ddc8b6b3a",
+            "text": "Get to work after 9 am",
+            "userId": "d86d63d4-671a-4082-bca6-a67e066543af",
+            "id": "5942c645-5339-427f-acae-b87ddc8b6b3a"
+        },
+        {
+            "challenge": {},
+            "group": {
+                "approval": {
+                    "required": false,
+                    "approved": false,
+                    "requested": false
+                },
+                "assignedUsers": [],
+                "sharedCompletion": "singleCompletion"
+            },
+            "up": true,
+            "down": true,
+            "counterUp": 0,
+            "counterDown": 0,
+            "frequency": "monthly",
+            "history": [],
+            "type": "habit",
+            "notes": "\"David A\"",
+            "tags": [],
+            "value": 0,
+            "priority": 1.5,
+            "attribute": "str",
+            "byHabitica": false,
+            "reminders": [],
+            "createdAt": "2020-04-12T17:04:50.876Z",
+            "updatedAt": "2020-04-12T17:04:58.282Z",
+            "_id": "ab5bd478-101f-4369-9127-f88948190a58",
+            "text": "Letter by letter workout",
+            "userId": "d86d63d4-671a-4082-bca6-a67e066543af",
+            "id": "ab5bd478-101f-4369-9127-f88948190a58"
+        },
+        {
+            "repeat": {
+                "m": true,
+                "t": true,
+                "w": true,
+                "th": true,
+                "f": true,
+                "s": true,
+                "su": true
+            },
+            "challenge": {},
+            "group": {
+                "approval": {
+                    "required": false,
+                    "approved": false,
+                    "requested": false
+                },
+                "assignedUsers": [],
+                "sharedCompletion": "singleCompletion"
+            },
+            "frequency": "daily",
+            "everyX": 1,
+            "streak": 1,
+            "daysOfMonth": [],
+            "weeksOfMonth": [],
+            "nextDue": [
+                "Sun Apr 19 2020 00:00:00 GMT-0400",
+                "Mon Apr 20 2020 00:00:00 GMT-0400",
+                "Tue Apr 21 2020 00:00:00 GMT-0400",
+                "Wed Apr 22 2020 00:00:00 GMT-0400",
+                "Thu Apr 23 2020 00:00:00 GMT-0400",
+                "Fri Apr 24 2020 00:00:00 GMT-0400"
+            ],
+            "yesterDaily": true,
+            "history": [
+                {
+                    "date": 1586742776226,
+                    "value": 1
+                },
+                {
+                    "date": 1586829599577,
+                    "value": 1.9747
+                },
+                {
+                    "date": 1586905840447,
+                    "value": 2.9253562257358428
+                },
+                {
+                    "date": 1586997450233,
+                    "value": 3.853133245658556
+                },
+                {
+                    "date": 1587132183773,
+                    "value": 2.9471537904313507
+                },
+                {
+                    "date": 1587182017324,
+                    "value": 3.8744127224477047
+                }
+            ],
+            "completed": false,
+            "collapseChecklist": false,
+            "type": "daily",
+            "notes": "",
+            "tags": [],
+            "value": 3.8744127224477047,
+            "priority": 0.1,
+            "attribute": "str",
+            "byHabitica": false,
+            "startDate": "2020-04-12T17:06:55.958Z",
+            "checklist": [],
+            "reminders": [],
+            "createdAt": "2020-04-12T17:07:17.477Z",
+            "updatedAt": "2020-04-18T13:36:43.778Z",
+            "_id": "3b08fc94-2c15-4181-81b0-2545b3ec589b",
+            "text": "21day fitness challenge",
+            "userId": "d86d63d4-671a-4082-bca6-a67e066543af",
+            "isDue": true,
+            "id": "3b08fc94-2c15-4181-81b0-2545b3ec589b"
+        },
+        {
+            "repeat": {
+                "m": true,
+                "t": true,
+                "w": true,
+                "th": true,
+                "f": true,
+                "s": true,
+                "su": true
+            },
+            "challenge": {},
+            "group": {
+                "approval": {
+                    "required": false,
+                    "approved": false,
+                    "requested": false
+                },
+                "assignedUsers": [],
+                "sharedCompletion": "singleCompletion"
+            },
+            "frequency": "daily",
+            "everyX": 1,
+            "streak": 1,
+            "daysOfMonth": [],
+            "weeksOfMonth": [],
+            "nextDue": [
+                "Sun Apr 19 2020 00:00:00 GMT-0400",
+                "Mon Apr 20 2020 00:00:00 GMT-0400",
+                "Tue Apr 21 2020 00:00:00 GMT-0400",
+                "Wed Apr 22 2020 00:00:00 GMT-0400",
+                "Thu Apr 23 2020 00:00:00 GMT-0400",
+                "Fri Apr 24 2020 00:00:00 GMT-0400"
+            ],
+            "yesterDaily": true,
+            "history": [
+                {
+                    "date": 1586742780585,
+                    "value": 1
+                },
+                {
+                    "date": 1586827236216,
+                    "value": 1.9747
+                },
+                {
+                    "date": 1586908254696,
+                    "value": 2.9253562257358428
+                },
+                {
+                    "date": 1587004430709,
+                    "value": 3.853133245658556
+                },
+                {
+                    "date": 1587132183775,
+                    "value": 2.9471537904313507
+                },
+                {
+                    "date": 1587182018112,
+                    "value": 3.8744127224477047
+                }
+            ],
+            "completed": false,
+            "collapseChecklist": false,
+            "type": "daily",
+            "notes": "Approx 2800ml/96 ounces",
+            "tags": [],
+            "value": 3.8744127224477047,
+            "priority": 0.1,
+            "attribute": "str",
+            "byHabitica": false,
+            "startDate": "2020-04-12T17:29:08.948Z",
+            "checklist": [],
+            "reminders": [],
+            "createdAt": "2020-04-12T17:29:31.916Z",
+            "updatedAt": "2020-04-18T13:36:43.778Z",
+            "_id": "a1f7c298-7792-4d9a-b9ee-8fba4e1ab4a9",
+            "text": "Drink 1/2 body weight in ounces of water",
+            "userId": "d86d63d4-671a-4082-bca6-a67e066543af",
+            "isDue": true,
+            "id": "a1f7c298-7792-4d9a-b9ee-8fba4e1ab4a9"
+        }
+    ],
+    "notifications": [
+        {
+            "id": "5492ef06-dfcd-40a0-8c8e-a1e252ab07fb",
+            "data": {
+                "group": {
+                    "id": "9556cad0-d7b6-4019-8f0f-f9c989015e8f",
+                    "name": "The Otaku and  Gamers D\u014dj\u014d"
+                }
+            },
+            "seen": false,
+            "type": "NEW_CHAT_MESSAGE"
+        },
+        {
+            "id": "53aa9517-241f-44d3-943b-8461a6a8fe94",
+            "data": {
+                "hp": 0.7000000000000028,
+                "mp": 30
+            },
+            "seen": false,
+            "type": "CRON"
+        },
+        {
+            "id": "b7f3e26b-449e-4f9e-9b96-184c68addbdc",
+            "data": {
+                "group": {
+                    "id": "5cc215ef-1d98-4a26-8e18-4957661bdac3",
+                    "name": "Read Your Books"
+                }
+            },
+            "seen": false,
+            "type": "NEW_CHAT_MESSAGE"
+        }
+    ],
+    "appVersion": "4.140.6"
+}
