@@ -1,9 +1,0 @@
-#!/bin/sh
-username=$(git config user.name)
-if [ "$username" != "David Tahvildaran" ]
-then
-	cat <<\EOF
-Error: user.name is not set to "David Tahvildaran"
-EOF
-	exit 1
-fi
