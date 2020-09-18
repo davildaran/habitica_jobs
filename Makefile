@@ -24,3 +24,6 @@ run_passing_tests:
 
 run_failing_tests:
 	python tests/bad_api.py
+
+email_commit:
+	python notification.py
