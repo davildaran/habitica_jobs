@@ -3,6 +3,7 @@ import yagmail
 
 receiver = "davildaran@gmail.com"
 body = "do you have issues committing to things?"
+attachment = ""
 
 
 def send_email():
