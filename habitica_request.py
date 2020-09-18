@@ -2,7 +2,7 @@ import os
 import requests
 import json
 
-from constants import HABITICA_API_URL
+from common.constants import HABITICA_API_URL
 from secret import user_id, api_token
 
 
