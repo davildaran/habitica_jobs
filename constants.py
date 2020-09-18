@@ -4,5 +4,3 @@ FILTERS = ['user']
 TASKS = ['habits', 'dailys', 'todos', 'rewards', 'completedTodos']
 
 health = 50
-
-api_token = 42
